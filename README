@@ -1,0 +1,13 @@
+##DEESCRIÇÃO
+
+Livro de Eric Evan sobre Domain-Driven Design contém um monte de coisas boas. Uma das minhas favoritas 
+é o padrão de especificações. É apenas um pequeno pedaço do quebra-cabeça, mas é particularmente agradável, 
+pois você pode colocá-lo para uso imediato, não importa onde no ciclo de vida de desenvolvimento que você do projeto. 
+Ele apresenta uma ótima maneira de levar o código potencialmente feio que é difícil de entender e compactá-lo 
+em pequenos pedaços de regras de negócios reutilizáveis.
+
+O seu âmbito limitado faz especificações fácil de testar, e uma maneira elegante de adicionar operações 
+como AND, OR e NOT torna possível combinar essas peças em novas regras que podem ser aplicadas em todo o 
+código. Se as regras são dadas bons nomes que lhe permitirá jogar fora difícil de ler código e substitua 
+por um código que não só fornece uma solução elegante, mas também faz com que a intenção explicitada em 
+linguagem natural.
