@@ -1,4 +1,4 @@
-package classes;
+package validador;
 
 public class ValidadorEnd extends Validador {
 

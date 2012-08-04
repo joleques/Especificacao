@@ -1,4 +1,4 @@
-package classes;
+package classesPessoa;
 
 
 import junit.framework.Assert;
@@ -6,6 +6,12 @@ import junit.framework.Assert;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import classesPessoa.Pessoa;
+import classesPessoa.ValidadorCpfPessoa;
+import classesPessoa.ValidadorNomePessoa;
+
+import validador.Validador;
 
 public class ValidadorPessoaTeste {
 	

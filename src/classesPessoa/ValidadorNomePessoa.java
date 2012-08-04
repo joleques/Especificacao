@@ -1,4 +1,6 @@
-package classes;
+package classesPessoa;
+
+import validador.Validador;
 
 public class ValidadorNomePessoa extends Validador {
 	
